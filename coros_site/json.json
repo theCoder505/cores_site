@@ -1,0 +1,416 @@
+{
+    "props": {
+        "appProps": {
+            "pageProps": {},
+            "navigation": {
+                "title": [{
+                    "type": "heading1",
+                    "text": "Navigation",
+                    "spans": []
+                }],
+                "header": [{
+                    "title": [{
+                        "type": "heading1",
+                        "text": "About",
+                        "spans": []
+                    }],
+                    "link": [{
+                        "type": "heading6",
+                        "text": "/#about",
+                        "spans": []
+                    }]
+                }, {
+                    "title": [{
+                        "type": "heading1",
+                        "text": "Careers",
+                        "spans": []
+                    }],
+                    "link": [{
+                        "type": "heading6",
+                        "text": "/#careers",
+                        "spans": []
+                    }]
+                }, {
+                    "title": [{
+                        "type": "heading1",
+                        "text": "Login",
+                        "spans": []
+                    }],
+                    "link": [{
+                        "type": "heading6",
+                        "text": "/signin",
+                        "spans": []
+                    }]
+                }, {
+                    "title": [{
+                        "type": "heading1",
+                        "text": "Contact",
+                        "spans": []
+                    }],
+                    "link": [{
+                        "type": "heading6",
+                        "text": "/#contact",
+                        "spans": []
+                    }]
+                }],
+                "privacy_pdf": {
+                    "link_type": "Media",
+                    "name": "Coros_Legal_Privacy_Policy_06_01.pdf",
+                    "kind": "document",
+                    "url": "https://coros-ai.cdn.prismic.io/coros-ai/58d3b264-ff39-467b-a811-3666570c5709_Coros_Legal_Privacy_Policy_06_01.pdf",
+                    "size": "87185"
+                }
+            },
+            "metadata": {
+                "page_title": [{
+                    "type": "heading1",
+                    "text": "Coros",
+                    "spans": []
+                }],
+                "description": [{
+                    "type": "paragraph",
+                    "text": "The future of logistics, delivered today.",
+                    "spans": []
+                }],
+                "og_image": {}
+            }
+        },
+        "__N_SSG": true,
+        "pageProps": {
+            "id": "XrmuphAAACMAs-xw",
+            "uid": "the-future-of-logistics",
+            "url": null,
+            "type": "home",
+            "href": "https://coros-ai.cdn.prismic.io/api/v2/documents/search?ref=YJlcXxEAACMAgh7z\u0026q=%5B%5B%3Ad+%3D+at%28document.id%2C+%22XrmuphAAACMAs-xw%22%29+%5D%5D",
+            "tags": [],
+            "first_publication_date": "2020-05-11T20:01:57+0000",
+            "last_publication_date": "2021-05-10T16:16:31+0000",
+            "slugs": ["home", "the-future-of-logistics-delivered-today.", "the-future-of-logistics-delivered-today...", "the-future-of-logistics-delivered-today"],
+            "linked_documents": [],
+            "lang": "en-us",
+            "alternate_languages": [],
+            "data": {
+                "title": [{
+                    "type": "heading1",
+                    "text": "The future of logistics, delivered today.",
+                    "spans": []
+                }],
+                "hero_video_sd": [{
+                    "type": "heading6",
+                    "text": "https://player.vimeo.com/external/424852376.sd.mp4?s=abc5b4b898ee83eb2e188562f7d5540aa92fdea7\u0026profile_id=164",
+                    "spans": []
+                }],
+                "hero_video_md": [{
+                    "type": "heading6",
+                    "text": "https://player.vimeo.com/external/424852376.hd.mp4?s=9d725ff171ca5fc57d85db1107cec711c37f1430\u0026profile_id=174",
+                    "spans": []
+                }],
+                "hero_video_hd": [{
+                    "type": "heading6",
+                    "text": "https://player.vimeo.com/external/424852376.hd.mp4?s=9d725ff171ca5fc57d85db1107cec711c37f1430\u0026profile_id=175",
+                    "spans": []
+                }],
+                "body2": [],
+                "intro_text": [{
+                    "type": "paragraph",
+                    "text": "We’re developing the next generation of logistics technology, to help the world move things faster and smarter than ever before.",
+                    "spans": []
+                }],
+                "coros_x_fedex": [{
+                    "type": "paragraph",
+                    "text": "We're teaming up with FedEx\nto deliver the future of logistics",
+                    "spans": []
+                }],
+                "motion_title": [{
+                    "type": "heading2",
+                    "text": "One dynamic platform that links your entire logistics chain.",
+                    "spans": []
+                }],
+                "motion_video_sd": [{
+                    "type": "heading6",
+                    "text": "https://player.vimeo.com/external/424835330.hd.mp4?s=4cdc88c1fa8184404b12086e062a62f22d302a08\u0026profile_id=174",
+                    "spans": []
+                }],
+                "motion_video_md": [{
+                    "type": "heading6",
+                    "text": "https://player.vimeo.com/external/424835330.hd.mp4?s=4cdc88c1fa8184404b12086e062a62f22d302a08\u0026profile_id=175",
+                    "spans": []
+                }],
+                "motion_video_hd": [{
+                    "type": "heading6",
+                    "text": "https://player.vimeo.com/external/424835330.hd.mp4?s=4cdc88c1fa8184404b12086e062a62f22d302a08\u0026profile_id=175",
+                    "spans": []
+                }],
+                "moved_title": [{
+                    "type": "heading2",
+                    "text": "Everything around you has been moved.",
+                    "spans": []
+                }],
+                "moved_description": [{
+                    "type": "paragraph",
+                    "text": "Touching dozens of hands and traveling thousands of miles. \n\nOn conveyor belts, planes, trailers, and trucks. To get to you, now. Yet, as technology continues to alter the ways we live, work, and play, logistics remains the same.\n\nWe’re here to change that.",
+                    "spans": []
+                }],
+                "trailer_vimeo": {
+                    "is_plus": "0",
+                    "account_type": "pro",
+                    "width": 426,
+                    "height": 240,
+                    "duration": 70,
+                    "description": "",
+                    "thumbnail_url_with_play_button": "https://i.vimeocdn.com/filter/overlay?src0=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F902260736_295x166.jpg\u0026src1=http%3A%2F%2Ff.vimeocdn.com%2Fp%2Fimages%2Fcrawler_play.png",
+                    "upload_date": "2020-06-01 19:43:28",
+                    "video_id": 424963558,
+                    "uri": "/videos/424963558:94675fd106",
+                    "embed_url": "https://vimeo.com/424963558/94675fd106",
+                    "type": "video",
+                    "version": "1.0",
+                    "title": "Introducing Coros",
+                    "author_name": "Coros",
+                    "author_url": "https://vimeo.com/coros",
+                    "provider_name": "Vimeo",
+                    "provider_url": "https://vimeo.com/",
+                    "cache_age": null,
+                    "thumbnail_url": "https://i.vimeocdn.com/video/902260736_295x166.jpg",
+                    "thumbnail_width": 295,
+                    "thumbnail_height": 166,
+                    "html": "\u003ciframe src=\"https://player.vimeo.com/video/424963558?app_id=122963\" width=\"426\" height=\"240\" frameborder=\"0\" allow=\"autoplay; fullscreen\" allowfullscreen title=\"Introducing Coros\"\u003e\u003c/iframe\u003e"
+                },
+                "trailer_video_sd": [{
+                    "type": "heading6",
+                    "text": "https://player.vimeo.com/external/424846769.sd.mp4?s=a8c3e1fdb5b53d00f11700dbc0dbed2fa18b3141\u0026profile_id=164",
+                    "spans": []
+                }],
+                "trailer_video_md": [{
+                    "type": "heading6",
+                    "text": "https://player.vimeo.com/external/424846769.hd.mp4?s=ffd4a32ef4baba5c82f2aef43fee16d022098c4c\u0026profile_id=174",
+                    "spans": []
+                }],
+                "trailer_video_hd": [{
+                    "type": "heading6",
+                    "text": "https://player.vimeo.com/external/424846769.hd.mp4?s=ffd4a32ef4baba5c82f2aef43fee16d022098c4c\u0026profile_id=175",
+                    "spans": []
+                }],
+                "change_title": [{
+                    "type": "heading2",
+                    "text": "We’re here to change that.",
+                    "spans": []
+                }],
+                "change_description": [{
+                    "type": "heading3",
+                    "text": "AI powered logistics",
+                    "spans": []
+                }, {
+                    "type": "paragraph",
+                    "text": "Optimize the movement of goods across the entire logistics chain with real-time visibility and actionable insights.",
+                    "spans": []
+                }],
+                "tablet": {
+                    "dimensions": {
+                        "width": 2056,
+                        "height": 1704
+                    },
+                    "alt": null,
+                    "copyright": null,
+                    "url": "https://images.prismic.io/coros-ai/283b2d52-8276-48c1-9467-f3fb4f188b5e_iPadPro.jpg?auto=compress,format"
+                },
+                "mobile": {
+                    "dimensions": {
+                        "width": 1342,
+                        "height": 1134
+                    },
+                    "alt": null,
+                    "copyright": null,
+                    "url": "https://images.prismic.io/coros-ai/f0292542-134b-47fa-be61-fb076644b4cb_Galaxy+S10.png?auto=compress,format"
+                },
+                "shipments_optimized": 930.053,
+                "shipments_optimized_description": [{
+                    "type": "paragraph",
+                    "text": "Shipments Optimized through Coros",
+                    "spans": []
+                }],
+                "careers_title": [{
+                    "type": "heading2",
+                    "text": "Join our team",
+                    "spans": []
+                }],
+                "careers_description": [{
+                    "type": "paragraph",
+                    "text": "Incepted and incubated within Mercedes-Benz Research and Development, Coros is a small, but rapidly growing team of engineers, designers, and product specialists looking to shape the future of logistics.",
+                    "spans": []
+                }],
+                "team_title": [{
+                    "type": "heading6",
+                    "text": "Join our team",
+                    "spans": []
+                }],
+                "team_description": [{
+                    "type": "paragraph",
+                    "text": "Incepted and incubated within\nMercedes-Benz Research and\nDevelopment, Coros is a small, \nbut rapidly growing team of engineers, designers, and product specialists looking to shape the future of logistics.",
+                    "spans": []
+                }, {
+                    "type": "paragraph",
+                    "text": "All open positions",
+                    "spans": [{
+                        "start": 0,
+                        "end": 18,
+                        "type": "hyperlink",
+                        "data": {
+                            "link_type": "Web",
+                            "url": "https://coros-corp.breezy.hr/"
+                        }
+                    }]
+                }],
+                "image_fallback": {
+                    "dimensions": {
+                        "width": 375,
+                        "height": 710
+                    },
+                    "alt": null,
+                    "copyright": null,
+                    "url": "https://images.prismic.io/coros-ai/e975baee-7bf8-403e-a2ba-62cc22dbc4bd_image.jpg?auto=compress,format\u0026rect=529,0,411,779\u0026w=375\u0026h=710"
+                },
+                "contact_title": [{
+                    "type": "heading2",
+                    "text": "Contact us",
+                    "spans": []
+                }],
+                "contact_image": {
+                    "dimensions": {
+                        "width": 660,
+                        "height": 900
+                    },
+                    "alt": null,
+                    "copyright": null,
+                    "url": "https://images.prismic.io/coros-ai/af8f557a-1279-4713-b344-d56c529b84e2_Garage-Angle-Grinder+1.jpg?auto=compress,format\u0026rect=0,0,1320,1800\u0026w=660\u0026h=900"
+                },
+                "contact_subjects": [{
+                    "subject": [{
+                        "type": "heading6",
+                        "text": "General Inquiry",
+                        "spans": []
+                    }]
+                }, {
+                    "subject": [{
+                        "type": "heading6",
+                        "text": "Investment",
+                        "spans": []
+                    }]
+                }, {
+                    "subject": [{
+                        "type": "heading6",
+                        "text": "Media",
+                        "spans": []
+                    }]
+                }, {
+                    "subject": [{
+                        "type": "heading6",
+                        "text": "Partnerships",
+                        "spans": []
+                    }]
+                }, {
+                    "subject": [{
+                        "type": "heading6",
+                        "text": "Careers",
+                        "spans": []
+                    }]
+                }],
+                "disclaimer": [{
+                    "type": "paragraph",
+                    "text": "We will use the information you provide on this form to contact you about our services as described in our Privacy Policy",
+                    "spans": [{
+                        "start": 107,
+                        "end": 121,
+                        "type": "hyperlink",
+                        "data": {
+                            "link_type": "Media",
+                            "name": "Coros_Legal_Privacy_Policy_06_01.pdf",
+                            "kind": "document",
+                            "url": "https://coros-ai.cdn.prismic.io/coros-ai/58d3b264-ff39-467b-a811-3666570c5709_Coros_Legal_Privacy_Policy_06_01.pdf",
+                            "size": "87185",
+                            "target": "_blank"
+                        }
+                    }]
+                }],
+                "contact_success_message": [{
+                    "type": "paragraph",
+                    "text": "Thank you for your message",
+                    "spans": []
+                }],
+                "contact_error_message": [{
+                    "type": "paragraph",
+                    "text": "An error occurred, please try again later",
+                    "spans": []
+                }]
+            },
+            "nav": {
+                "title": [{
+                    "type": "heading1",
+                    "text": "Navigation",
+                    "spans": []
+                }],
+                "header": [{
+                    "title": [{
+                        "type": "heading1",
+                        "text": "About",
+                        "spans": []
+                    }],
+                    "link": [{
+                        "type": "heading6",
+                        "text": "/#about",
+                        "spans": []
+                    }]
+                }, {
+                    "title": [{
+                        "type": "heading1",
+                        "text": "Careers",
+                        "spans": []
+                    }],
+                    "link": [{
+                        "type": "heading6",
+                        "text": "/#careers",
+                        "spans": []
+                    }]
+                }, {
+                    "title": [{
+                        "type": "heading1",
+                        "text": "Login",
+                        "spans": []
+                    }],
+                    "link": [{
+                        "type": "heading6",
+                        "text": "/signin",
+                        "spans": []
+                    }]
+                }, {
+                    "title": [{
+                        "type": "heading1",
+                        "text": "Contact",
+                        "spans": []
+                    }],
+                    "link": [{
+                        "type": "heading6",
+                        "text": "/#contact",
+                        "spans": []
+                    }]
+                }],
+                "privacy_pdf": {
+                    "link_type": "Media",
+                    "name": "Coros_Legal_Privacy_Policy_06_01.pdf",
+                    "kind": "document",
+                    "url": "https://coros-ai.cdn.prismic.io/coros-ai/58d3b264-ff39-467b-a811-3666570c5709_Coros_Legal_Privacy_Policy_06_01.pdf",
+                    "size": "87185"
+                }
+            },
+            "preview": null
+        }
+    },
+    "page": "/",
+    "query": {},
+    "buildId": "7Flw9pJr8H2mpkeOQ9AHA",
+    "runtimeConfig": {},
+    "nextExport": false,
+    "isFallback": false,
+    "gsp": true,
+    "appGip": true
+}
